@@ -1,7 +1,7 @@
 # MPlayer
-**A basic music player or advanced player in development for dj's.**
+**A basic music player in development.**
 
-<b>Hyper development Media Playe</b>
+<b>Hyper development Media Player</b>
 <code>
     - C++
     - OpenGL
