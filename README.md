@@ -2,7 +2,7 @@
 <b>A basic music player in development</b></br>
 
 <b>Languages:</b>
-- C++<
+- C++
 
 <b>Frameworks:</b>
 - OpenGL
