@@ -1,11 +1,11 @@
-<h1> MPlayer <\h1>
-<h2>**A basic music player in development.**</h2>
+<h1> MPlayer </h1>
+<h2><b>A basic music player in development</b></h2>
 
 
-<ul>**Languages:**</ul>
+<ul><b>Languages:</b></ul>
 <li> C++</li>
 
-**Frameworks**:
+<b>Frameworks:</b>
 - OpenGL
 - Simple Media Player ( SDL ): Audio / Sounds library
 
