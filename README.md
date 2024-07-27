@@ -1,8 +1,8 @@
 <h1> MPlayer </h1>
-<h2><b>A basic music player in development</b></h2>
+<b>A basic music player in development</b>
 
 
-<ul><b>Languages:</b></ul>
+<b>Languages:</b>
 <li> C++</li>
 
 <b>Frameworks:</b>
